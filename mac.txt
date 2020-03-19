@@ -1,0 +1,2 @@
+Address                  HWtype  HWaddress           Flags Mask            Iface
+_gateway                 ether   d8:24:bd:91:5d:40   C                     wlp2s0

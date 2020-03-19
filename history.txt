@@ -1,0 +1,1594 @@
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119              ether   b4:c4:fc:b7:6c:12   C                     wlan0
+10.42.0.218              ether   58:85:a2:1d:99:eb   C                     wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218              ether   58:85:a2:1d:99:eb   C                     wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119              ether   b4:c4:fc:b7:6c:12   C                     wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.119                      (incomplete)                              wlan0
+10.42.0.218                      (incomplete)                              wlan0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
