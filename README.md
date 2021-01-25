@@ -4,7 +4,9 @@ This was a project under Electronics Club, IITK for its door. This is a program 
 used for encryption. Only the user whose mac address matches can open the lock as hardware.  
 
 
-This program is using bash for checking mac-address and python for unlocking the door. We used Rpi for hotspot and controller, custom built controlled magnetic lock.    
+This program is using bash for checking mac-address and python for unlocking the door. We used Rpi for hotspot and controller, custom built controlled magnetic lock.   
+
+<img src="/lock.jpg" width= 200px >
 
 ## Team
 
